@@ -2,19 +2,19 @@
 
 This model can tag receipt-entry like data with 3 different labels:
 
-  1. Brand Name
+    #1. Brand Name
   
-  2. Product Type
+    2. Product Type
   
-  3. Specification
+    3. Specification
   
   For example: "家樂福鮮乳100ml" we'll be labeled as 
   
-  家樂福 = Brand name
+    #家樂福 = Brand name
   
-  牛奶 = Product Type
+    牛奶 = Product Type
   
-  100ml = Specification
+    100ml = Specification
   
 **For trained Model:**
 
