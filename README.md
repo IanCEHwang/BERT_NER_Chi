@@ -12,7 +12,7 @@ This model can tag receipt-entry like data with 3 different labels:
   
     家樂福 = Brand name
   
-    牛奶 = Product Type
+    鮮乳 = Product Type
   
     100ml = Specification
   
